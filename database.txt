@@ -1,0 +1,15 @@
+LATIN:mortuus(EN:dead)>OLDFRENCH:mort + OLDFRENCH:gage(EN:pledge)
+>OLDFRENCH:mortage(EN:dead pledge)
+>EN:mortgage
+
+LATIN:primus(EN:first) + INDO:*KAP(FR:prendre,attraper)>LATIN:capere(EN:take)
+>LATIN:princeps,princip(EN:first,chief,sovereign)
+>OLDFRENCH:prince
+>MIDDLEENGLISH:prince
+>EN:prince
+
+INDO:*PED-(EN:pied)>PERSIAN:pâ(EN:foot)+PERSIAN:puš(EN:cover)
+>PERSIAN:pâpuš
+>AR:bābūš
+>FR:babouche
+>EN:babouche
